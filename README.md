@@ -4,6 +4,8 @@
 ## 🌱 About BioMarket
 BioMarket is an e-commerce platform dedicated to selling organic and sustainable products. The website provides users with a seamless shopping experience while promoting eco-friendly and healthy living.
 
+**"Bio Life, Stay Alive"**
+
 ## 🚀 Features
 - 🛒 **User-friendly e-commerce platform** for organic products
 - 🔍 **Advanced search & filtering** to find products easily
