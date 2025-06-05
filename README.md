@@ -28,7 +28,7 @@ BioMarket is an e-commerce platform focused on selling organic and sustainable p
 - A modern web browser
 ```bash
 # Clone the repository
-git clone https://github.com/Bouchra777/bio-market.git
+git clone https://github.com/Hanae-B/bio-market.git
 cd biomarket
 
 # Move the project folder to your XAMPP 'htdocs' directory
