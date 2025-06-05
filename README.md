@@ -32,20 +32,20 @@ git clone https://github.com/Bouchra777/bio-market.git
 cd biomarket
 
 # Move the project folder to your XAMPP 'htdocs' directory
-mv bio-market /path-to-xampp/htdocs/
+mv biolife /path-to-xampp/htdocs/
 
 # Start Apache and MySQL from the XAMPP control panel
 
 # Set up the database:
   - Open http://localhost/phpmyadmin
   - Create a new database named: biolife_db
-  - Import the SQL file if provided
+  - Import the SQL file 
 
 # Update the database configuration in:
-# includes/db.php
+# config/database.php
 
 # Access the website in your browser
-http://localhost/bio-market/
+http://localhost/biolife/
 ```
 
 ## 🎨 UI/UX Design
